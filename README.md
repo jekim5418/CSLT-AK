@@ -39,15 +39,7 @@ At the project root,
 python -m signjoey train configs/cslt-ak.yaml
 ```
 
-### Download best_models for inference
-
-Download trained best models.
-```
-cd saved_model
-sh download.sh
-```
-
-## Evaluation
+### Evaluation
 We included 'download.sh' file in 'saved_model' folder.
 If you want to evaluate our model, download checkpoints by running:
 ```
