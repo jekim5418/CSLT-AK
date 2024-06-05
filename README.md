@@ -3,7 +3,7 @@
 
 [[Paper]](💥)
 
-![1-s2 0-S0167865523002283-gr3_lrg](https://github.com/jekim5418/TDA_KD/assets/60121575/87d6e71c-eaee-49c4-b2eb-99b50b27ebf5)
+![1-s2 0-S0167865523002283-gr3_lrg](https://github.com/jekim5418/CSLT-AK/assets/60121575/25db17e2-15fc-4000-9774-9457a63b9c62)
 
 > CSLT-AK: Convolution-Embedded Transformer with Action Tokenizer and Keypoint Emphasizer for Sign Language Translation
 >
