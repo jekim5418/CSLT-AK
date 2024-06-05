@@ -48,7 +48,12 @@ sh download.sh
 ```
 
 ## Evaluation
-We included the best models of CSLT-AK in 'saved_model' folder.
+We included 'download.sh' file in 'saved_model' folder.
+If you want to evaluate our model, download checkpoints by running:
+```
+cd saved_model
+sh download.sh
+```
 
 ### Inference
 At the project root,
