@@ -1,0 +1,519 @@
+dev/11August_2010_Wednesday_tagesschau-2|tiefer luftdruck bestimmt unser wetter .
+dev/11August_2010_Wednesday_tagesschau-3|auch viele wolken einige zum teil kräftige schauer und gewitter die in den nächsten tagen heftig sein können .
+dev/11August_2010_Wednesday_tagesschau-8|der wind weht meist schwach sonst auch mal mäßig aus unterschiedlichen richtungen .
+dev/25October_2010_Monday_tagesschau-22|am mittwoch regnet es hier und da etwas im norden und nordwesten teilweise ist es sehr windig .
+dev/05May_2011_Thursday_tagesschau-25|und nun die wettervorhersage für morgen freitag den sechsten mai .
+dev/15December_2010_Wednesday_tagesschau-40|am tag schneit es teilweise kräftig .
+dev/10March_2011_Thursday_heute-51|aber im südwesten da kommt die milde fünf bis zwanzig grad am wochenende auch noch wärmer .
+dev/14August_2009_Friday_tagesschau-72|morgen temperaturen von zwanzig grad in niederbayern bis dreißig am oberrhein .
+dev/26January_2010_Tuesday_heute-107|und jetzt wünsche ich ihnen noch einen schönen abend .
+dev/12February_2010_Friday_tagesschau-125|morgen zeigt sich stellenweise die sonne auch mal die sonne am alpenrand .
+dev/12February_2010_Friday_tagesschau-126|morgen hier und da noch etwas regen im nordosten auch mal kräftiger sonst gibt es meist noch schnee oder schneeregen .
+dev/01November_2010_Monday_tagesschau-140|im norden und westen fällt heute nacht zum teil noch zeitweise regen .
+dev/28November_2011_Monday_tagesschau-165|am tag im süden und südosten gebietsweise zäher nebel oder nebelfelder abseits von nebelfelder wieder einige nebelfelder .
+dev/28November_2011_Monday_tagesschau-168|in der nacht fünf grad in küstennähe und minus vier am alpenrand .
+dev/28November_2011_Monday_tagesschau-172|aber der regen zieht im laufe des nachmittags im süden und südosten zum teil kräftig heran .
+dev/24November_2011_Thursday_heute-222|in der nordhälfte gibt es neben wolken und nebelfeldern wird es auch frostig werden .
+dev/24November_2011_Thursday_heute-223|im süden und in den alpen null grad im norden gibt es noch leichten frost und minus sechs grad während es im äußersten westen .
+dev/19October_2009_Monday_tagesschau-229|und nun die wettervorhersage für morgen dienstag den vierten juli .
+dev/12July_2010_Monday_heute-244|etwas kühler in der osthälfte deutschlands mit drei grad die wolken die aber leider es nicht so kühl .
+dev/21August_2011_Sunday_tagesschau-264|richtung süden gibt es noch zum teil sterne .
+dev/21August_2011_Sunday_tagesschau-265|über die mitte deutschlands bekommt eine morgen vielerorts die wolken die hier und da auch noch schauer oder gewitter bringen .
+dev/22November_2010_Monday_heute-279|da kann es vielleicht auch in der mitte und im süden da nochmal das heißt die kälte im süden und in der mitte und im süden da wird es nicht
+dev/14October_2010_Thursday_tagesschau-298|am samstag regnet es in der nordhälfte gebietsweise im bergland ist es teilweise in schnee oder schneeregen .
+dev/14October_2010_Thursday_tagesschau-299|am freundlichsten wird es vor allem im bergland im nordwesten .
+dev/06April_2010_Tuesday_tagesschau-308|der wind weht schwach bis mäßig aus nordost im nordosten aus west kommt .
+dev/12May_2010_Wednesday_tagesschau-318|am tag regnet es im südosten teilweise kräftig auch gewitter sind mit dabei .
+dev/17April_2010_Saturday_tagesschau-396|hoher luftdruck beschert uns morgen ein meist sonniges luftdruck und kühles herbstwetter .
+dev/01October_2009_Thursday_tagesschau-417|morgen reichen die zehn grad im südwesten an der spree und oberrhein .
+dev/04May_2010_Tuesday_heute-453|das hoch über dem norden deutschlands bestimmt unser wetter in deutschland .
+dev/30January_2013_Wednesday_tagesschau-475|am freitag ziehen von westen regenwolken heran die das heißt uns am nachmittag wird es sehr windig .
+dev/30January_2013_Wednesday_tagesschau-477|am sonntag ist es im westen noch zum teil freundlich später wieder schnee oder regen .
+dev/14October_2009_Wednesday_tagesschau-529|vor allem in der nordwesthälfte ist es sehr windig .
+dev/20November_2011_Sunday_tagesschau-536|es bleibt hochnebel mit hochnebel und nebel oder hochnebel .
+dev/25February_2011_Friday_tagesschau-575|am dienstag nur noch einzelne teilweise trocken .
+dev/18October_2010_Monday_heute-629|nur im süden wird es deutlich freundlicher und es wird freundlicher .
+dev/18October_2010_Monday_heute-630|und jetzt wünsche ich ihnen noch einen schönen abend .
+dev/06October_2010_Wednesday_tagesschau-632|in den nächsten tagen bleibt es bei uns aber das meist trübe abseits von nebelfeldern und nebelfeldern kommt auch die sonne wieder .
+dev/06October_2010_Wednesday_tagesschau-640|morgen dreizehn grad im südosten im äußersten südwesten sommerliche wärme hält das kühle wetter .
+dev/04August_2011_Thursday_tagesschau-718|auch der montag wechselhaft und deutlich kühler .
+dev/21October_2009_Wednesday_tagesschau-735|im vorfeld dieser wolken des feucht heiße luft in der nacht in der westhälfte teilweise ergiebig ausfallen .
+dev/29May_2011_Sunday_tagesschau-764|der wind weht schwach bis mäßig an den küsten auch frisch .
+dev/19April_2010_Monday_heute-781|im süden insgesamt beruhigt sich das wetter und es wird auch langsam wieder milder .
+dev/30August_2011_Tuesday_heute-783|liebe zuschauer guten abend .
+dev/30August_2011_Tuesday_heute-784|und auch über der sommer in deutschland in sachsen so vom süden bis zum alpenrand zum teil heftige schauer .
+dev/04December_2009_Friday_tagesschau-841|schwacher bis mäßiger im norden frischer bis starker südwestwind mit starken böen an der nordsee teilweise schwere sturmböen .
+dev/22January_2010_Friday_tagesschau-907|am tag viele wolken oder nebelfelder aber es bleibt trocken örtlich kann sich die sonne auch rauskommen .
+dev/28September_2012_Friday_tagesschau-916|im südwesten und auch im süden deutlich regen sonst nur noch warme siebzehn an der küste .
+dev/28September_2012_Friday_tagesschau-917|sonst ist es wechselhaft und es wird freundlich .
+dev/28September_2012_Friday_tagesschau-922|in der südosthälfte bleibt es nicht so ganz so kalt in küstennähe gibt es auch mal einen bodenfrost .
+dev/03February_2011_Thursday_tagesschau-938|im bayerischen wald heute nacht bis minus fünf im emsland sowie in nordfriesland bis plus zwei grad .
+dev/03February_2011_Thursday_tagesschau-939|morgen temperaturen von zwei grad im vogtland bis neun grad am oberrhein .
+dev/04April_2011_Monday_heute-965|und morgen wird es noch ein bisschen wärmer als heute .
+dev/04April_2011_Monday_heute-966|es kann bis neunzehn grad werden und bis neunzehn grad werden .
+dev/23November_2011_Wednesday_tagesschau-973|und nun die wettervorhersage für morgen donnerstag den vierundzwanzigsten november .
+dev/23November_2011_Wednesday_tagesschau-980|im norden und westen gibt es neben wolken und etwas sonne in küstennähe einzelne schauer .
+dev/23November_2011_Wednesday_tagesschau-984|in der neuen woche wird es insgesamt etwas windiger bevor im nordwesten wieder gibt es regen und ein wenig .
+dev/19August_2010_Thursday_tagesschau-995|am samstag scheint verbreitet die sonne im norden hier und da schauer im norden fallen schauer .
+dev/29October_2009_Thursday_tagesschau-1011|und nun die wettervorhersage für morgen dreißig zentimeter oktober .
+dev/06May_2010_Thursday_heute-1054|am tag kann sich die sonne in der nordwesthälfte zeigen und am abend kommt dann auch die sonne wieder .
+dev/05October_2011_Wednesday_heute-1069|liebe zuschauer guten abend .
+dev/23May_2011_Monday_tagesschau-1097|im norden machen sich allerdings schon wolken eines tiefausläufers bemerkbar die in den nächsten tagen weiter richtung süden ausbreiten .
+dev/19May_2010_Wednesday_heute-1119|im westen aber schon am nachmittag kann es die sonne scheinen bevor dann doch nachmittags auch dort den westen richtig nachmittags etwas sonniger .
+dev/09August_2009_Sunday_tagesschau-1179|dieses tief das morgen im westen deutschlands auch im osten deutschlands zieht aber weiterhin zur ostsee .
+dev/09August_2009_Sunday_tagesschau-1180|schauer und gewitter werden die heftig sein können .
+dev/09August_2009_Sunday_tagesschau-1181|im westen und südwesten lockern die wolken auf später auch dort sowie im nordwesten auf .
+dev/09August_2009_Sunday_tagesschau-1182|in der zweiten nachthälfte wieder teilweise kräftige schauer und gewitter können die heftig sein können .
+dev/05July_2010_Monday_tagesschau-1200|am tag mal sonne mal wolken teilweise auch mal längere freundliche abschnitte .
+dev/20June_2011_Monday_tagesschau-1253|das zieht weiter nach irland zieht sich der regen zur ostsee zieht im osten und südosten .
+dev/21June_2011_Tuesday_tagesschau-1264|im südosten ist es heute nacht meist freundlich während es von nordwesten zum teil länger freundlich ausbreiten .
+dev/12July_2011_Tuesday_heute-1274|die gewitterlage ist noch nicht mehr so sonnig in der südwesthälfte erreichen in der nacht dann morgen abend auch die nordseeküste erreichen .
+dev/12July_2011_Tuesday_heute-1279|morgen gibt es im südosten zum teil kräftige gewitter vor allem in der südosthälfte deutschlands auch einige mitunter gewittrige .
+dev/12July_2011_Tuesday_heute-1280|im westen beruhigt sich das wetter schon wieder bevor sich langsam wieder ein paar unterschiedlichen luftmassen .
+dev/12July_2011_Tuesday_heute-1281|der wind norden aus unterschiedlichen richtungen auch in alpennähe können auch dort sowie in einigen regionen ein paar stunden halten .
+dev/25May_2010_Tuesday_tagesschau-1294|heute nacht vierzehn grad am oberrhein und vier grad im norden .
+dev/18April_2011_Monday_tagesschau-1316|auf jeden fall zum teil bis freitag zum freitag abseits und viel sonne und steigende temperaturen .
+dev/31January_2010_Sunday_tagesschau-1333|morgen im norden und westen zwei sonst minus fünf bis minus ein grad .
+dev/22August_2010_Sunday_tagesschau-1345|der wind weht schwach bis mäßig an den küsten teilweise frisch bei schauern sind sturmböen möglich .
+dev/02October_2009_Friday_tagesschau-1354|der wind liegt morgen im norden und westen zu unbeständiges wetter am sonntag auch ein paar flocken .
+dev/02October_2009_Friday_tagesschau-1355|dabei bestimmt weiter unser wetter mit kühlerer luft unser wetter .
+dev/02October_2009_Friday_tagesschau-1362|am montag regnet es im norden gebietsweise sonst ist es wechselhaft im süden auch regen .
+dev/10January_2011_Monday_heute-1375|erst am mittwoch regnet es kräftig und dann kommt dann auch in weiteren sich das tief in sich dann in den nächsten flüssen und im westen in italien .
+dev/13August_2011_Saturday_tagesschau-1409|vor allem im süden und osten muss mit einigen unwettern gerechnet werden .
+dev/13August_2011_Saturday_tagesschau-1410|der wind weht meist schwach bis mäßig aus unterschiedlichen richtungen .
+dev/23December_2010_Thursday_tagesschau-1430|und nun die wettervorhersage für morgen freitag den vierundzwanzigsten dezember .
+dev/10August_2010_Tuesday_heute-1455|aber im osten und in der mitte sonne zum teil bis sechsundzwanzig im süden nochmal bis siebenundzwanzig grad .
+dev/25January_2010_Monday_heute-1467|im süden wird es immer wolkiger in den alpen fällt aber auch noch schnee aber später und auch dort .
+dev/30July_2010_Friday_tagesschau-1520|kühle sieben grad heute nacht an der ostsee bis sechzehn grad an der ostsee .
+dev/06December_2011_Tuesday_heute-1553|stürmisch wird es gibt auch an der grenze .
+dev/06December_2011_Tuesday_heute-1554|ihnen einen schönen abend und machen sie es gut .
+dev/19July_2009_Sunday_tagesschau-1568|auch am montag sorgt ein tief über dem baltikum fließt kühlere luft heran .
+dev/28November_2011_Monday_heute-1587|und morgen der einstellige temperaturen in dieser nacht im nordosten .
+dev/07February_2011_Monday_tagesschau-1612|im norden heute nacht schwere sturmböen an der ostsee auch orkanböen sonst orkanböen .
+dev/07February_2011_Monday_tagesschau-1613|am tag weht der wind schwach bis mäßig im norden und osten teilweise frischer und stark böiger wind .
+dev/07April_2010_Wednesday_heute-1631|im osten ist es noch freundlich aber im süden gibt es einzelne schauer .
+dev/07April_2010_Wednesday_heute-1632|ich wünsche ihnen einen schönen abend und machen sie es gut .
+dev/03July_2011_Sunday_tagesschau-1673|ab mittwoch wird es wieder wechselhafter und in den nächsten tagen .
+dev/03July_2011_Sunday_tagesschau-1674|auch am donnerstag unbeständiges wetter mit unterschiedlichen richtungen .
+dev/13April_2011_Wednesday_tagesschau-1683|sonst mal sonne mal wolken die hier und da ein paar tropfen bringen können .
+dev/12January_2011_Wednesday_tagesschau-1732|heute nacht sieben grad am niederrhein und ein grad im breisgau .
+dev/09March_2011_Wednesday_heute-1742|aber es gibt auch sehr windig zum teil stürmisch in der osthälfte auch noch ein bisschen kühler .
+dev/20November_2010_Saturday_tagesschau-1823|ab montag kommt das hoch über deutschland verbreitet mit ergiebige regenfälle und bringt uns zum teil wieder ergiebige regenfälle .
+dev/20November_2010_Saturday_tagesschau-1824|da auch wieder ein paar schneeflocken in den nächsten tagen steigen die schneefallgrenze .
+dev/15February_2010_Monday_tagesschau-1843|im nordwesten schneit es noch etwas .
+dev/14July_2010_Wednesday_tagesschau-1865|am sonntag lässt der regen langsam nach .
+dev/14April_2010_Wednesday_heute-1879|guten abend liebe zuschauer .
+dev/14April_2010_Wednesday_heute-1880|es wird ja morgen früh auch noch in den westen wärmer das sind es morgen noch in den nächsten tagen .
+dev/14April_2010_Wednesday_heute-1881|also es gibt auch noch mal uns und die luft die in die jetzt weiter unwetterartig ausfallen können .
+dev/14April_2010_Wednesday_heute-1892|ihnen einen schönen abend und machen sie es gut .
+dev/31May_2011_Tuesday_heute-1899|deutschland liegt in der osthälfte und im nordosten so langsam auch in die mitte weiterhin auf .
+dev/28December_2011_Wednesday_tagesschau-1911|am alpenrand morgen noch regen in küstennähe einzelne schauer in küstennähe einzelne gewitter .
+dev/09January_2010_Saturday_tagesschau-1919|und nun die wettervorhersage für morgen sonntag den zehnten januar .
+dev/11May_2010_Tuesday_tagesschau-1960|und nun die wettervorhersage für morgen mittwoch den zwölften mai .
+dev/11May_2010_Tuesday_tagesschau-1964|am tag regnet es im norden und osten teilweise ergiebig richtung süden ist es teilweise freundlich .
+dev/11May_2010_Tuesday_tagesschau-1971|am samstag im norden und südosten noch regen sonst ist es windig .
+dev/03July_2009_Friday_tagesschau-2003|vor allem südlich des mains bleibt es von rhein main und gewittern und gewittern .
+dev/03July_2009_Friday_tagesschau-2008|das kräftige gewitter sorgt auch im laufe der nacht für die warnungen des deutschen wetterdienstes .
+dev/02November_2010_Tuesday_tagesschau-2031|im süden deutschlands dagegen dank hochdruckeinfluss recht freundliches herbstwetter .
+dev/02November_2010_Tuesday_tagesschau-2039|auch am samstag strömt dann von norden sehr warme luft in die nordseeküste etwas kühlere luft heran .
+dev/22January_2011_Saturday_tagesschau-2080|der wind weht schwach bis mäßig im norden auch frisch aus ost bis südost .
+dev/22January_2011_Saturday_tagesschau-2082|im emsland morgen bis sechs am alpenrand unter klarem himmel bis vier grad .
+dev/06July_2009_Monday_tagesschau-2109|am tag werte zwischen achtzehn und zwanzig grad in der eifel bis sechsundzwanzig grad in der lausitz .
+dev/22April_2010_Thursday_heute-2120|am tag ist es recht freundlich auch in küstennähe sind auch mal wolkig mit einzelnen schauern oder gewittern gerechnet werden .
+dev/22April_2010_Thursday_heute-2124|es ist ein trockener und kühler .
+dev/22April_2010_Thursday_heute-2125|schönen abend noch für sie und schönen abend noch .
+dev/17October_2009_Saturday_tagesschau-2127|das tief über dem mittelmeer sorgt morgen noch für weiten teilen deutschlands .
+dev/17October_2009_Saturday_tagesschau-2133|der wind weht meist schwach richtung norden teilweise mäßig aus nördlichen richtungen .
+dev/17October_2009_Saturday_tagesschau-2138|am mittwoch ziehen von westen und nordwesten wolken bis sechzehn grad .
+dev/17October_2009_Saturday_tagesschau-2139|es wird kühler und dazu kommt ein bisschen kühler .
+dev/18November_2011_Friday_tagesschau-2143|die wolken des tiefs über dem atlantik nach nordeuropa zieht heute nacht weiter nach nordwesten .
+dev/27September_2009_Sunday_tagesschau-2169|im süden schwacher bis mäßiger richtung norden frischer wind an der küste frischer wind an der ostsee stürmische böen .
+dev/27September_2009_Sunday_tagesschau-2170|heute nacht gibt es hier und da wolkenlücken teilweise noch bodenfrost .
+dev/06August_2010_Friday_tagesschau-2172|und nun die wettervorhersage für morgen samstag den siebten august .
+dev/01March_2011_Tuesday_tagesschau-2209|morgen scheint meist die sonne am längsten .
+dev/01March_2011_Tuesday_tagesschau-2210|im norden können dagegen stellenweise ein paar nebelfelder oder hochnebelfelder aus .
+dev/01March_2011_Tuesday_tagesschau-2211|in den östlichen mittelgebirgen und nordwesten deutschlands wärmer die weiterhin sehr windig richtung süden und in küstennähe auch schwere sturmböen .
+dev/30December_2010_Thursday_tagesschau-2236|heute nacht temperaturen zwischen vierzehn und minus zwei grad bei aufklaren .
+dev/30October_2009_Friday_tagesschau-2275|es weht ein schwacher bis mäßiger wind aus östlichen richtungen .
+dev/30October_2009_Friday_tagesschau-2276|im westen heute nacht fünf sonst verbreitet leichter frost örtlich kann es bodenfrost geben .
+dev/07January_2010_Thursday_tagesschau-2301|in der nacht temperaturen zwischen minus drei und minus siebzehn grad bei aufklaren .
+dev/07January_2010_Thursday_tagesschau-2302|am tag sieben grad an der ostsee und bis zu null grad an der ostsee .
+dev/07June_2010_Monday_heute-2322|dazu immer wieder gibt es eine schwül warme luft in den nächsten tagen unser wetter .
+dev/07June_2010_Monday_heute-2327|im osten und süden deutschlands macht sich der himmel von bis fünfundzwanzig grad .
+dev/26September_2009_Saturday_tagesschau-2333|und nun die wettervorhersage für morgen sonntag den siebenundzwanzigsten september .
+dev/26September_2009_Saturday_tagesschau-2335|nur im norden machen sich nur ein paar wolken bemerkbar .
+dev/26September_2009_Saturday_tagesschau-2342|heute nacht zwölf grad an der nordsee und vier grad in der eifel .
+dev/26September_2009_Saturday_tagesschau-2343|morgen am tag achtzehn bis dreiundzwanzig grad an der neiße bis dreiundzwanzig grad .
+dev/12March_2011_Saturday_tagesschau-2455|am tag nur ein grad in norddeutschland und in dieser nacht zeitweise die mitte und an der nordsee .
+dev/15September_2010_Wednesday_heute-2476|in den nächsten tagen wird es aber früh raureif auf den autoscheiben .
+dev/10February_2010_Wednesday_tagesschau-2524|am sonntag schneit es nur vereinzelt etwas im norden ist es weiter sonnig .
+dev/25November_2010_Thursday_tagesschau-2529|am tag fällt im südosten noch gebietsweise schnee oder gefrierender regen .
+dev/25November_2010_Thursday_tagesschau-2530|im nordwesten gibt es noch schauer im laufe des tages in die nacht auch mild .
+dev/25November_2010_Thursday_tagesschau-2536|am sonntag ist es wolkig teilweise freundlich und bis minus fünf grad im südosten .
+dev/12January_2010_Tuesday_heute-2545|im laufe des tages wird es weiter in den nächsten tagen es weiter allerdings auch sehr glatt es gibt auch eisregen oder regen .
+dev/12January_2010_Tuesday_heute-2546|am tag schneit es im süden und südwesten hier und da noch etwas sonst auch mal als heute .
+dev/09December_2009_Wednesday_tagesschau-2561|in der nordhälfte kommt die temperaturen morgen sieben grad an der nordsee .
+dev/09December_2009_Wednesday_tagesschau-2562|heute nacht acht grad am niederrhein und minus sechs grad an den alpen .
+dev/12July_2009_Sunday_tagesschau-2573|morgen wechseln sonne und wolken einander ab es an den küsten ist es auch überall sonnig .
+dev/12July_2009_Sunday_tagesschau-2574|sonst einzelne schauer vor allem im südwesten und südwesten sind auch einzelne gewitter möglich .
+dev/06July_2010_Tuesday_tagesschau-2653|im nordosten einzelne schauer gegen abend einzelne schauer gegen abend werden die schauer im nordosten seltener werden .
+dev/06July_2010_Tuesday_tagesschau-2654|im süden hält sich der wind aus dem südwesten hält er zum teil klar .
+dev/05January_2010_Tuesday_tagesschau-2672|in der nacht minus zwei grad in der mitte und im süden in der mitte sinkt die sonne auch bis zu einundzwanzig grad .
+dev/19January_2011_Wednesday_heute-2680|aber im süden wird es auch frostig in der mitte europas und im süden liegen die werte von zehn bis auf zehn grad .
+dev/01October_2010_Friday_tagesschau-2691|und nun die wettervorhersage für morgen samstag den dritten oktober .
+dev/31January_2013_Thursday_tagesschau-2710|sonst hier und da etwas schnee am abend im norden und westen die niederschläge auch an den alpen und in den flachland .
+dev/02November_2010_Tuesday_heute-2742|guten abend liebe zuschauer .
+dev/02November_2010_Tuesday_heute-2754|es ist mild dazu auch im norden auch bis vierzehn grad im süden da bleibt es noch vierzehn bis sechzehn grad .
+dev/01July_2011_Friday_tagesschau-2763|sonst mal sonne mal wolken mal einzelne schauer im westen und südwesten zeigt sich die sonne .
+dev/01July_2011_Friday_tagesschau-2765|heute nacht dreizehn grad an der see vierzehn grad an den alpen und vier grad an den alpen .
+dev/01July_2011_Friday_tagesschau-2766|am tag dreizehn grad in der lausitz und bis einundzwanzig grad im süden .
+dev/03August_2010_Tuesday_tagesschau-2776|im laufe des tages breitet sich von westen teilweise kräftige schauer und gewitter aus die sich später kräftig ausfallen können .
+dev/26January_2010_Tuesday_tagesschau-2787|im laufe des tages stärker bewölkt oder schauert es in den folgenden tagen fort .
+dev/08February_2010_Monday_tagesschau-2796|und nun die wettervorhersage für morgen dienstag den neunten februar .
+dev/28January_2010_Thursday_tagesschau-2817|die aussichten am samstag schneit es etwas vor allem im norden zeigt sich auch mal die sonne .
+dev/05February_2010_Friday_tagesschau-2919|heute nacht minus fünf grad im nordosten bis plus drei grad im bergland .
+dev/05February_2010_Friday_tagesschau-2920|dort morgen bis sechs im vogtland sechzehn grad im vogtland etwas kühler .
+dev/20September_2010_Monday_heute-2934|und auch wird es noch ein bisschen milder aber im nordwesten wird es deutlich milder .
+dev/20September_2010_Monday_heute-2935|aber es wird auch insgesamt ein bisschen kühler .
+dev/29September_2012_Saturday_tagesschau-2966|am montag ist es im ganzen land recht freundlich sonst mehr wolken als sonne und zeitweise regen .
+dev/29September_2012_Saturday_tagesschau-2967|am dienstag ziehen von westen wieder ein paar wolken mit einzelnen schauern heran .
+dev/09August_2010_Monday_tagesschau-3000|im norden und nordwesten später auch dort wolkiger hier und da gibt es schauer einzelne gewitter .
+dev/09August_2010_Monday_tagesschau-3004|am mittwoch in der nordhälfte mal sonne mal wolken mit schauern und gewittern im westen aber auch einzelne schauer oder gewitter .
+dev/07October_2012_Sunday_tagesschau-3026|hier und da gibt es auch noch leicht frostig .
+dev/01December_2011_Thursday_heute-3058|wir erwarten es gibt auch noch zum teil kräftigen regen vor allem in küstennähe auch an den küsten ziehen auch an den küsten .
+dev/01December_2011_Thursday_heute-3060|und auch tagsüber da wird es ja schon also sechs bis zum bayerischen wald und schleswig holstein mecklenburg vorpommern .
+dev/01December_2011_Thursday_heute-3061|es ist ein bisschen kühler als heute an der donau am bodensee sind es es es es nur noch neunzehn grad .
+dev/20April_2011_Wednesday_tagesschau-3084|in der südwesthälfte deutschlands sorgt das tief über dem südwesten für einige schauer und gewitter die allmählich auch unwetterartig ausfallen können .
+dev/21April_2010_Wednesday_heute-3122|und am wochenende sieht es auch noch sehr warm aus und wenn dann bis zum zweiten nachthälfte die sonne zeigen .
+dev/21April_2010_Wednesday_heute-3124|ihnen einen schönen abend und machen sie es gut .
+dev/05September_2010_Sunday_tagesschau-3132|auch an der donau und in der nacht von nebel wolken und gegen abend werden die wolken dichter es wird wolkiger .
+dev/24May_2010_Monday_tagesschau-3142|in der nacht ist es teils wolkig teils klar später gibt es schauer und gewitter die .
+dev/20May_2010_Thursday_tagesschau-3151|und nun die wettervorhersage für morgen freitag den einundzwanzigsten mai .
+dev/20February_2011_Sunday_tagesschau-3164|und nun die wettervorhersage für morgen montag den einundzwanzigsten februar .
+dev/20February_2011_Sunday_tagesschau-3166|am tag schneit es in der nacht am rhein hier und da etwas am rhein im rhein neckar auch regen .
+dev/20December_2010_Monday_tagesschau-3199|im norden strömt kältere luft ein nach deutschland die macht sich im laufe der nacht allmählich nach wie vor allem im laufe des tages richtung südosten deutschlands bemerkbar .
+dev/20December_2010_Monday_tagesschau-3204|im norden und südlich der donau bleibt es trocken aber auch sonst bleibt es trocken .
+dev/20December_2010_Monday_tagesschau-3205|hier und da fällt auch regen der weiterhin gefrieren kann .
+dev/20December_2010_Monday_tagesschau-3208|im südosten heute nacht minus acht im nordosten minus acht grad an der nordsee .
+dev/26August_2009_Wednesday_tagesschau-3225|am freitag ist es in der südosthälfte meist freundlich sonst ziehen von dort stellenweise kräftige schauer heran .
+dev/27August_2009_Thursday_tagesschau-3276|im norden und südosten muss auch in der südosthälfte mit teilweise heftigen gewittern gerechnet werden .
+dev/27August_2009_Thursday_tagesschau-3284|am sonntag ist es meist freundlich .
+dev/27August_2009_Thursday_tagesschau-3285|im norden wird es anfangs auch noch einzelne schauer im norden auch noch schauer .
+dev/27August_2009_Thursday_tagesschau-3286|am montag ähnliches wetter auch am montag und auch wieder wärmer .
+dev/04July_2009_Saturday_tagesschau-3345|am montag verbreitet schauer im osten und südosten auch längere zeit freundlich .
+dev/26April_2010_Monday_heute-3398|im südwesten wird es morgen nochmal auf vier bis neun grad .
+dev/23September_2010_Thursday_tagesschau-3444|in der lausitz und im laufe der nacht meist trocken .
+dev/02September_2010_Thursday_heute-3456|im norden dagegen klart es gebietsweise auf in einigen regionen bildet sich nebel .
+dev/02September_2010_Thursday_heute-3457|morgen wird es im norden zum teil freundlich im norden wird es morgen vorübergehend freundlich .
+dev/25September_2010_Saturday_tagesschau-3480|und nun die wettervorhersage für morgen sonntag den sechsundzwanzigsten september .
+dev/02October_2012_Tuesday_heute-3494|heute nacht fallen kaum noch ein paar tropfen im nordwesten liegt es dabei immer noch ein bisschen regnen .
+dev/11December_2009_Friday_tagesschau-3509|am tag ist es im ganzen tag über und am nachmittag lockert es auch mal auf am nachmittag lockert es auch am nachmittag auf .
+dev/06January_2010_Wednesday_heute-3523|heute nacht wird es mal leicht schneien im norden und in der osthälfte und im süden und südosten deutschlands allerdings noch neue schneeschauer .
+dev/06January_2010_Wednesday_heute-3525|morgen wird es vor allem im norden ein bisschen kühler und das heißt im westen hier im westen da liegt ein bisschen .
+dev/06January_2010_Wednesday_heute-3530|und es kommt noch ein kräftiger nordwestwind dazu immer noch nicht mehr ganz so kalt im westen und es gibt auch noch schauer und gewitter wir in dieser stürmische böen
+dev/05April_2010_Monday_tagesschau-3546|und nun die wettervorhersage für morgen dienstag den sechsten april .
+dev/20October_2009_Tuesday_tagesschau-3586|und nun die wettervorhersage für morgen mittwoch den einundzwanzigsten oktober .
+dev/20October_2009_Tuesday_tagesschau-3594|gegen abend setzen dann im westen erste schauer und gewitter können im westen erste schauer und gewitter entwickeln .
+dev/20October_2009_Tuesday_tagesschau-3595|der wind frischt auch der wind stark böig auf sonst weht er schwach bis mäßig .
+dev/02December_2010_Thursday_tagesschau-3636|im norden und nordwesten gibt es zum teil noch mehr wolken .
+dev/02December_2010_Thursday_tagesschau-3637|schnee zieht dann auch weiter nach norden ziehen in die nacht weiter richtung küsten .
+dev/22November_2011_Tuesday_tagesschau-3647|in der zweiten wochenhälfte erwartet uns freundliches wetter unter hochdruckeinfluss unter hochdruckeinfluss ist es weiterhin freundlich .
+dev/23April_2010_Friday_tagesschau-3667|in der nacht minus drei bis plus vier grad an der nordsee bis plus fünf grad an der nordsee und plus fünf grad .
+dev/23April_2010_Friday_tagesschau-3668|am tag zehn bis achtzehn grad bei sonne sechsundzwanzig grad .
+dev/30May_2011_Monday_heute-3677|im osten auch noch ein bisschen wärmer denn wir die warme luft in frankreich in westeuropa nur noch zwölf grad .
+dev/24January_2011_Monday_tagesschau-3712|ein tief das sich bei schottland nach deutschland erstreckt weitet sich weiter nach norden aus .
+dev/24January_2011_Monday_tagesschau-3720|der südostwind weht schwach bis mäßig an der nordsee auch frisch bei schauern und gewittern sturmböen .
+dev/23February_2011_Wednesday_heute-3780|ihnen einen schönen abend und machen sie es gut durch die gut .
+dev/10August_2010_Tuesday_tagesschau-3865|im südosten bleibt es heute nacht meist trocken örtlich gibt es auch klar .
+dev/25June_2010_Friday_tagesschau-3884|dort morgen bis fünfzehn im sauerland nur kühle sechs grad .
+dev/25June_2010_Friday_tagesschau-3887|auch in den nächsten tagen mit sonne und wärmer luft die uns auch weiterhin viel sonnenschein .
+dev/12September_2010_Sunday_tagesschau-3919|in den nächsten tagen wechselhaftes wetter in den nächsten tagen wechselhaftes wetter .
+dev/08April_2010_Thursday_tagesschau-3949|weiterhin kühlere luft aus polaren breiten macht sich im nordwesten und westen bemerkbar die von südwesten strömt kühlere luft nach deutschland .
+dev/24April_2010_Saturday_tagesschau-3963|auch morgen sorgt hoher luftdruck für viel sonnenschein .
+dev/08January_2010_Friday_tagesschau-3984|die aussichten auch am sonntag im osten und süden teilweise sehr windig sonst auch sehr windig .
+dev/04May_2011_Wednesday_heute-3996|aber es ist ja sehr warm am rhein im süden mit dreizehn bis zwanzig grad kühler und auch sonst im osten so achtzehn grad .
+dev/08April_2010_Thursday_heute-4004|und es kommt auf jeden fall zum teil kräftige schauer und es wird aber kühler es kommt kühler .
+dev/30September_2012_Sunday_tagesschau-4033|in der nacht dreizehn grad in küstennähe und null grad in der mitte und im süden null grad .
+dev/30September_2012_Sunday_tagesschau-4037|in der zweiten wochenhälfte erwartet uns eine ruhige zweiteilung des wetters .
+dev/30September_2012_Sunday_tagesschau-4038|auch am donnerstag ist es im osten eher wechselhaft mit kräftigem regen und es ist auch windig .
+dev/24June_2011_Friday_tagesschau-4071|allerdings beginnt der tag oft freundlich bevor sich wieder wolken mit regenfällen durch .
+dev/24June_2011_Friday_tagesschau-4073|gegen morgen weht der wind dann im nordosten frisch an den küsten auch stürmische böen .
+dev/05September_2009_Saturday_tagesschau-4078|und nun die wettervorhersage für morgen sonntag den sechsten september .
+dev/19February_2010_Friday_tagesschau-4101|dann wechselhaft geht es dann auch mild weiter in deutschland .
+dev/10April_2010_Saturday_tagesschau-4140|morgen reichen die temperaturen von sechs bis elf grad am oberrhein bis zwölf grad am oberrhein .
+dev/07December_2010_Tuesday_tagesschau-4152|am tag minus drei grad im nordosten bis plus vier grad im südosten .
+dev/18September_2010_Saturday_tagesschau-4197|am mittwoch ist es bei sonne recht freundlich nur sechzehn bis fünfundzwanzig grad .
+dev/08December_2009_Tuesday_heute-4211|das ganze bei uns strömt weiter kalte luft zu uns .
+dev/08December_2009_Tuesday_heute-4212|im osten morgen bis vier grad im breisgau dagegen frische vier grad .
+dev/08December_2009_Tuesday_heute-4213|es ist mild dazu tauwetter also acht bis neun grad .
+dev/29September_2011_Thursday_heute-4235|ihnen einen schönen abend und machen sie es gut durch die schönen abend und machen sie es gut durch die menge .
+dev/26August_2010_Thursday_tagesschau-4265|und nun die wettervorhersage für morgen freitag den siebenundzwanzigsten august .
+dev/24October_2009_Saturday_tagesschau-4283|im südosten regnet es zum teil ergiebig .
+dev/24October_2009_Saturday_tagesschau-4284|sonst regnet es gebietsweise vor allem richtung norden .
+dev/24October_2009_Saturday_tagesschau-4285|am tag ist es im laufe des tages stärker bewölkt aber auf teilweise aber auch freundliche momente .
+dev/31May_2011_Tuesday_tagesschau-4294|was es bestehen entsprechende warnungen des deutschen wetterdienstes .
+dev/31May_2011_Tuesday_tagesschau-4295|im nordwesten deutschlands sorgt ein tief für eine mischung aus sonne .
+dev/13July_2010_Tuesday_tagesschau-4317|dort und in der osthälfte können sich noch zum teil kräftige schauer und gewitter entwickeln vor allem in den nächsten tagen muss mit gewittern gerechnet werden .
+dev/22June_2011_Wednesday_heute-4381|also schwül warme luft kommt von westen die macht sich in die mitte in die wolken die etwas kühlere luft aus westen nach deutschland ausbreiten .
+dev/23August_2010_Monday_tagesschau-4429|diese wolken sind auch noch so ein paar schauer im südosten kommt auch noch regen .
+dev/23August_2010_Monday_tagesschau-4430|dazu kann es auch noch gewitter werden .
+dev/23August_2010_Monday_tagesschau-4438|im süden wird es unter hochdruckeinfluss deutlich freundlicher .
+dev/29June_2011_Wednesday_tagesschau-4482|es gelten entsprechende warnungen des deutschen wetterdienstes .
+dev/09February_2010_Tuesday_tagesschau-4495|auch in der eifel und zum beispiel im emsland sowie in der eifel .
+dev/09February_2010_Tuesday_tagesschau-4496|auch sonst schneit es teilweise kräftig .
+dev/09February_2010_Tuesday_tagesschau-4497|die nacht aber nur in den nächsten tagen noch das regenschauer später .
+dev/01July_2009_Wednesday_tagesschau-4555|morgen im norden kaum gewitter an der küste auch mal sonnige abschnitte .
+dev/11October_2010_Monday_tagesschau-4607|auch dort sowie im südosten können sich zum teil hartnäckig halten können aber auch nebelfelder aus dem südwesten hält er sich stellenweise bildet sich nebel .
+dev/11October_2010_Monday_tagesschau-4612|am tag zehn grad bei dauerregen und achtzehn grad am oberrhein .
+dev/11October_2010_Monday_tagesschau-4615|am freitag langsam wieder ein paar tropfen im norden lässt sich die schauer ankommen .
+dev/30November_2010_Tuesday_tagesschau-4617|zwischen dem hoch über westeuropa und dem deutschland .
+dev/30November_2010_Tuesday_tagesschau-4618|vom atlantik nähert sich ein atlantischer tiefausläufer der in der nacht und morgen schnee übergehen .
+dev/30November_2010_Tuesday_tagesschau-4620|an den küsten gibt es heute nacht noch schnee sonst mal wolken und es bleibt meist trocken .
+dev/30November_2010_Tuesday_tagesschau-4621|im norden und osten zeigt sich morgen auch mal die sonne .
+dev/01February_2011_Tuesday_heute-4637|in den nächsten tagen erwartet uns eine ruhige mischung aus nebel oder hochnebel mit sonne und nebel .
+dev/28September_2009_Monday_tagesschau-4679|heute nacht vierzehn grad im nordosten und sechs grad im nordosten .
+dev/28September_2009_Monday_tagesschau-4680|am tag vierzehn grad an der ostsee und einundzwanzig grad an den alpen .
+dev/19March_2011_Saturday_tagesschau-4690|morgen früh schneit es dann verbreitet an den küsten aber auch sonst ist es immer noch ein bisschen und es gibt noch wenige wolken es gibt auch wenige paar schauer
+dev/19March_2011_Saturday_tagesschau-4697|auch an den küsten hier und da wolken aber es bleibt meist wolkenverhangen aber es fällt nur noch wenige regenschauer .
+dev/05December_2009_Saturday_tagesschau-4701|dort morgen zum teil kräftige grad sonst in der lausitz bis dreizehn grad .
+dev/21January_2011_Friday_tagesschau-4890|in der nordwesthälfte gebietsweise auch etwas schnee oder gefrierender regen vorsicht wegen glätte .
+dev/21November_2009_Saturday_tagesschau-4905|im westen und südwesten gibt es hier und da wolkenlücken aber auch einzelne schauer geben aber auch dort wie schon in schleswig holstein schauer .
+dev/21November_2009_Saturday_tagesschau-4906|in der südosthälfte schwacher bis mäßiger wind aus südost bis südost .
+dev/21November_2009_Saturday_tagesschau-4911|in der neuen woche bleibt es wechselhaft mit etwas mehr wolken als sonne und gebietsweise fällt regen .
+dev/25April_2010_Sunday_tagesschau-4942|dabei fließt noch kühle luft heran daran wird sich auch in den nächsten tagen wieder freundlicher und auch wieder .
+dev/25April_2010_Sunday_tagesschau-4951|am donnerstag bis sechsundzwanzig grad bei viel sonnenschein .
+dev/25April_2010_Sunday_tagesschau-4952|im westen gibt es einzelne schauer und gewitter die sich am höchsten .
+dev/22March_2011_Tuesday_tagesschau-4956|heute nacht klingen die wolken und es bleibt weitgehend trocken und es klar nur noch in norddeutschland .
+dev/01February_2011_Tuesday_tagesschau-4975|auch in der nacht kommt im laufe des tages wieder schnee .
+dev/01February_2011_Tuesday_tagesschau-4976|am freitag ist es im norden windig im süden zum teil freundlich und trocken im süden auch freundlich und trocken .
+dev/28February_2011_Monday_tagesschau-4984|der wind weht schwach bis mäßig im nordosten auch frisch bei schauern und auf den bergen stürmische böen .
+dev/01June_2010_Tuesday_tagesschau-5002|und nun die wettervorhersage für morgen mittwoch den zweiten juli .
+dev/10March_2011_Thursday_tagesschau-5086|am sonntag im westen und nordwesten viele wolken und es fällt gebietsweise regen im osten ist es recht freundlich .
+dev/24December_2010_Friday_tagesschau-5128|es sorgt auch noch für schnee und regenschauer die im gepäck können .
+dev/24December_2010_Friday_tagesschau-5129|es bestehen entsprechende unwetterwarnungen des deutschen wetterdienstes .
+dev/31August_2010_Tuesday_tagesschau-5174|der wind weht schwach richtung südosten kommt er aus unterschiedlichen richtungen .
+dev/15September_2010_Wednesday_tagesschau-5209|am samstag im norden einige schauer sonst ist es freundlich im süden regnet es stellenweise .
+dev/15September_2010_Wednesday_tagesschau-5210|am sonntag regnet es in alpennähe im norden gebietsweise in der mitte ist es weiter freundlich .
+dev/16May_2010_Sunday_tagesschau-5227|im norden ist es heute nacht meist klar sonst ist es gebietsweise klar richtung süden auch noch wolkig .
+dev/20July_2010_Tuesday_heute-5251|und jetzt geht es in den kommenden nächten wird es auch noch wärmer für uns alle und auch morgen und auch noch ein bisschen kühler .
+dev/27July_2010_Tuesday_heute-5261|liebe zuschauer guten abend .
+dev/23August_2010_Monday_heute-5319|und morgen wird es in deutschland in deutschland das ganze ganz deutschland verbreitet über deutschland .
+dev/23August_2010_Monday_heute-5320|aber es kommt auf jeden fall zum teil ergiebige regenfälle aus osten hin .
+dev/23August_2010_Monday_heute-5321|aber es bleibt auch noch ziemlich heftigen gewitter im süden es wird auch noch ziemlich heftigen gewittern .
+dev/08October_2009_Thursday_tagesschau-5348|in der nacht ist es im norden und in der mitte meist klar .
+dev/08October_2009_Thursday_tagesschau-5349|im laufe der nacht breitet sich im norden weiter richtung südosten zum teil noch auf .
+dev/08October_2009_Thursday_tagesschau-5350|im süden regnet es zum teil kräftig im laufe des tages entwickeln sich einzelne gewitter .
+dev/08October_2009_Thursday_tagesschau-5351|im südosten regnet es gebietsweise richtung nordwesten auch danach dazwischen ist es recht freundlich .
+dev/07December_2011_Wednesday_tagesschau-5399|am nachmittag ziehen im westen und südwesten wolken mit regen heran die aber nachmittags auch dort bringen .
+dev/10December_2011_Saturday_tagesschau-5420|ab montag wird es wieder wechselhafter und auch wieder kühler .
+dev/10December_2011_Saturday_tagesschau-5421|ab dienstag wird es windig und stürmisch örtlich sind auch sturmböen möglich .
+dev/10December_2011_Saturday_tagesschau-5422|stellenweise auch regen im bergland ist auch schnee dabei in den bergen kann es etwas schneien .
+dev/10December_2011_Saturday_tagesschau-5423|aber es bleibt mild und vor allen dingen an den küsten und in den nächsten tagen doch an den küsten .
+dev/21November_2011_Monday_heute-5433|im süden bildet sich hier und da nebel .
+dev/21November_2011_Monday_heute-5434|wenn die sonne zeigt sich wieder häufiger zum teil auf etwa acht grad bei nur zwei grad .
+dev/22November_2009_Sunday_tagesschau-5490|heute nacht temperaturen zwischen vierzehn grad am oberrhein und vier grad wo es aufklart .
+dev/23July_2011_Saturday_tagesschau-5498|später zieht der regen von der see bis zu den nordwesten .
+dev/08June_2010_Tuesday_tagesschau-5527|heute nacht elf grad in niederbayern bis siebzehn grad in der lausitz .
+dev/06October_2011_Thursday_heute-5532|liebe zuschauer guten abend .
+dev/17January_2010_Sunday_tagesschau-5554|am tag überwiegen in der mitte die wolken oder neblig trüb hier und da schneit es etwas .
+dev/17January_2010_Sunday_tagesschau-5555|im südwesten sind es heute nacht noch warme luft möglich .
+dev/18November_2009_Wednesday_tagesschau-5583|im laufe des tages lockert es auf stellenweise bildet sich nebel besonders im norden und nordwesten einige nebelfelder .
+dev/18November_2009_Wednesday_tagesschau-5584|morgen überwiegen die wolken hier und da ein paar tropfen oder flocken .
+dev/18November_2009_Wednesday_tagesschau-5585|später lässt der regen auf .
+dev/18November_2009_Wednesday_tagesschau-5586|bei längerem nebel meist freundlich und meist trocken .
+dev/18November_2009_Wednesday_tagesschau-5587|im osten und süden muss in der nacht mit schweren sturmböen auf den bergen zum teil orkanböen .
+dev/12December_2010_Sunday_tagesschau-5597|in der nacht ist der himmel mal stärker bewölkt oder neblig trüb örtlich bildet sich nebel .
+dev/12December_2010_Sunday_tagesschau-5605|am tag minus acht grad im vogtland und plus drei grad an nord und drei grad an nord .
+dev/29November_2011_Tuesday_tagesschau-5612|im norden und westen ist es heute nacht meist bedeckt und gebietsweise fällt etwas regen .
+dev/29November_2011_Tuesday_tagesschau-5619|in der nacht sechs grad in der kölner bucht und minus zwei grad in der kölner bucht .
+dev/07December_2010_Tuesday_heute-5626|das wird in der nacht in den nächsten stunden noch in süddeutschland verlagert sich das ganze auch in süddeutschland .
+dev/30March_2010_Tuesday_tagesschau-5694|und nun die wettervorhersage für morgen mittwoch den einunddreißigsten mai .
+dev/26March_2011_Saturday_tagesschau-5730|am alpenrand gibt es schon zum teil dauerregen .
+dev/26March_2011_Saturday_tagesschau-5731|am dienstag überall viel sonne und meist trocken .
+dev/30November_2009_Monday_tagesschau-5749|im süden sind oberhalb von siebenhundert metern auch schnee und es kann auch schneien .
+dev/30November_2009_Monday_tagesschau-5755|am tag sieben bis neun grad in der kölner bucht bis acht grad .
+dev/26October_2010_Tuesday_tagesschau-5789|am tag regnet es im norden und osten hier und da im südwesten zäher nebel oder hochnebel .
+dev/26October_2010_Tuesday_tagesschau-5796|an den küsten ist es windig .
+dev/12December_2011_Monday_heute-5806|dazu gibt es erste sturmböen an der nordsee auch sturmböen .
+dev/26November_2011_Saturday_tagesschau-5848|an der nordsee hat es zum teil hagel und dort wo es aufklart kommt aus west bis südwest .
+dev/09August_2010_Monday_heute-5905|und wir ja auch noch ein bisschen kühler und es wird auch ein bisschen kühler und es kommt kühler .
+dev/09August_2010_Monday_heute-5906|ihnen einen schönen abend und machen sie es gut es gut .
+dev/16December_2009_Wednesday_tagesschau-5918|am freitag mehr wolken als sonne im nordosten schneit es gebietsweise noch etwas .
+dev/04October_2010_Monday_heute-5945|liebe zuschauer guten abend .
+dev/04October_2010_Monday_heute-5954|dazu die zwanzig bis zwanzig grad sogar bis zwanzig grad .
+dev/25August_2010_Wednesday_heute-6001|in der nacht regnet es im westen und nordwesten hier und da ein paar gewitter daran sind auch noch dabei .
+dev/25August_2010_Wednesday_heute-6008|es wird auch sehr kühl mal kann es die pegel wieder heftig sein können .
+dev/25August_2010_Wednesday_heute-6009|ich wünsche ihnen einen schönen abend und machen sie es gut .
+dev/07April_2010_Wednesday_tagesschau-6029|im osten und südosten ist es heute nacht meist sonnig in der nordwesthälfte auch einige schauer .
+dev/13February_2010_Saturday_tagesschau-6036|und nun die wettervorhersage für morgen sonntag den vierzehnten februar .
+dev/13February_2010_Saturday_tagesschau-6044|die aussichten am montag mal sonne mal wolken hier und da ein paar schneeschauer im westen ist auch etwas schnee dabei .
+dev/24September_2009_Thursday_heute-6077|das tief über zwanzig grad bei norwegen kann man sagen .
+dev/16February_2010_Tuesday_tagesschau-6098|am tag regnet es in der westhälfte gebietsweise kräftig im osten ist es teilweise auch freundlich .
+dev/27October_2009_Tuesday_tagesschau-6148|im norden und osten deutschlands macht sich allerdings ein atlantischer tiefausläufer bemerkbar die wolken die hier und da auch für regen bringen .
+dev/26July_2010_Monday_tagesschau-6256|und nun die wettervorhersage für morgen dienstag den zweiten juli .
+dev/16September_2010_Thursday_tagesschau-6271|der wind dreht im süden in der südhälfte auch mal mäßig .
+dev/16September_2010_Thursday_tagesschau-6272|heute nacht gibt es im norden und in der mitte einige schauer die örtlich von schauer bringen können .
+dev/16September_2010_Thursday_tagesschau-6276|heute nacht zwölf bis fünf grad in der mitte und im süden bis dreizehn grad .
+dev/30November_2011_Wednesday_tagesschau-6289|am tag fünf grad im rhein und fünfzehn grad am alpenrand da bleibt es noch am alpenrand .
+dev/30November_2011_Wednesday_tagesschau-6291|im südosten ist es noch freundlich und in der südosthälfte zeitweise freundlich .
+dev/30November_2011_Wednesday_tagesschau-6292|am wochenende gibt es vor allem in einigen regionen der gefahr von sturmböen .
+dev/10August_2011_Wednesday_tagesschau-6303|im laufe des tages steigen die temperaturen und es wird zunehmend leicht um .
+dev/10August_2011_Wednesday_tagesschau-6304|im süden zum teil freundlich im norden und osten gibt es auch einzelne schauer oder gewitter die in unwetterartig ausfallen können .
+dev/10August_2011_Wednesday_tagesschau-6305|am sonntag sind es bis zu dreißig grad bei gewittern möglich .
+dev/17February_2011_Thursday_tagesschau-6307|bei einem hochdruckeinfluss bleibt aber nur leicht ändert sich es bleibt aber weitgehend trocken .
+dev/24January_2013_Thursday_tagesschau-6323|im osten und südosten ganz im südosten noch kräftiger regen sonst hier und da etwas schnee vielleicht auch noch ein bisschen nieseln .
+dev/24January_2013_Thursday_tagesschau-6327|wo es heute nacht länger aufklart gibt es bis minus fünfzehn grad im osten .
+dev/30January_2011_Sunday_tagesschau-6345|und nun die wettervorhersage für morgen montag den einunddreißigsten januar .
+dev/10January_2011_Monday_tagesschau-6404|heute nacht bleibt es trocken hier und da rieseln ein paar tropfen der örtlich gefrieren kann .
+dev/10January_2011_Monday_tagesschau-6409|heute nacht ein grad am niederrhein und minus siebzehn grad in teilen thüringens und sachsens .
+dev/05April_2011_Tuesday_tagesschau-6420|südlich des mains kommt aus sonne zum zuge .
+dev/06May_2011_Friday_tagesschau-6438|auch am montag noch sonnig im äußersten westen und südwesten auch schauer und gewitter .
+dev/04July_2011_Monday_heute-6440|und nun die wettervorhersage für morgen mittwoch den dritten januar .
+dev/04July_2011_Monday_heute-6441|auf jeden fall bleibt es nicht ganz so kalt das sind wir dann in diesen fünfzehnten oberhalb von fünfzehn bis fünfzehn grad .
+dev/23May_2011_Monday_heute-6459|danach kommt die regen auf und es bergen stürmisch in den nächsten tagen unser wetter mit sehr windig bis stürmisch .
+dev/23May_2011_Monday_heute-6461|und in der nacht gibt es hier und da schauer vereinzelt gewitter die in alpennähe örtlich kurze gewitter sind mit dabei .
+dev/23May_2011_Monday_heute-6466|und es kommt auf jeden fall und es gibt noch nicht viel regen hier diese regengebiete .
+dev/23September_2010_Thursday_heute-6476|im westen wird es nochmal richtig warm mit vierzehn bis achtzehn grad aber nur am nachmittag .
+dev/29January_2010_Friday_tagesschau-6489|morgen bleibt es wechselhaft an der nordsee auch bis in die mitte beruhigt sich das wetter morgen langsam .
+dev/29January_2010_Friday_tagesschau-6490|in der nacht schneit es zunächst im süden noch bevor sich im norden und osten schnee fallen in den nächsten tagen .
+dev/03November_2010_Wednesday_tagesschau-6505|südlich des mains gibt es auch längere zeit sonnig und es bleibt trocken .
+dev/03November_2010_Wednesday_tagesschau-6506|im süden bläst der wind mäßig bis frisch mit starken bis stürmischen böen an der see und in den gipfellagen orkanartige böen .
+dev/03November_2010_Wednesday_tagesschau-6507|im äußersten süden heute nacht bis dreizehn am alpenrand drei grad an den alpen .
+dev/20June_2011_Monday_heute-6514|das ganze bei uns dann wechselhaftes wetter in den nächsten tagen wechselhaftes wetter .
+dev/20June_2011_Monday_heute-6521|in der mitte und im westen ist es stark bewölkt oder neblig trüb es regnet zeitweise dazwischen von nordwesten auch mal auf .
+dev/16December_2011_Friday_tagesschau-6529|im laufe des tages breitet sich der regen aus und dabei entwickeln sich zum teil kräftige schauer und gewitter aus .
+dev/16December_2011_Friday_tagesschau-6532|morgen im norden und osten noch gebietsweise regen in alpennähe örtlich etwas schnee oder graupel .
+dev/16April_2010_Friday_tagesschau-6577|das hoch über dem atlantik gewinnt morgen an bedeutung für unser wetter mit viel sonnenschein .
+dev/12September_2009_Saturday_tagesschau-6589|deshalb gibt es ein paar tiefs am rhein und main gebiet auch an der donau .
+dev/12September_2009_Saturday_tagesschau-6590|in den kommenden nacht breiten sich die wolken im norden und im norden dichte wolken aus hier und da fällt etwas regen .
+dev/12September_2009_Saturday_tagesschau-6591|am tag ist es im süden gebietsweise noch wolkig die vor allem in der südosthälfte gebietsweise auch regen oder tropfen .
+dev/24July_2011_Sunday_tagesschau-6621|in den nächsten tagen wird es langsam wärmer .
+dev/24July_2011_Sunday_tagesschau-6622|davor nochmal einige schauer und gewitter bleibt es auch immer noch überall erhalten .
+dev/01April_2010_Thursday_heute-6697|unser wetter wird wieder ein neues tief das uns bevor das wetter am dienstag wieder ungemütlich sorgt .
+dev/01April_2010_Thursday_heute-6698|am tag steigen die temperaturen im süden und süden noch länger auf warm in den alpen .
+dev/12November_2009_Thursday_tagesschau-6770|im norden tauchen morgen zum teil dichtere wolken auf sonst regnet es gebietsweise .
+dev/12November_2009_Thursday_tagesschau-6771|im süden bleibt es meist trocken oder nebelfelder gibt es in manchen regionen auch längere zeit die sonne .
+dev/12November_2009_Thursday_tagesschau-6772|im laufe des tages entwickeln sich die wolken im laufe des tages auch die mitte ein paar wolkenfelder hinweg .
+dev/02June_2010_Wednesday_heute-6796|und am samstag kommt von westen und es wird am sonntag auch immer noch schauer und gewitter geben .
+dev/13December_2009_Sunday_tagesschau-6822|im südosten ist es zum teil freundlich sonst meist trocken bis minus acht grad .
+dev/06December_2011_Tuesday_tagesschau-6842|im bergland geht es wieder schnee über auf vierzehn bis zwanzig grad in süddeutschland dort auch mal mäßig .
+dev/06July_2011_Wednesday_tagesschau-6870|am tag einundzwanzig grad an den küsten und bis neunundzwanzig grad im breisgau .
+dev/10August_2009_Monday_heute-6891|aber die kommt jetzt auf jeden fall abschwächen in der nordosthälfte und damit kommt diese milde luft nicht so sehr viel besser aus .
+dev/10August_2009_Monday_heute-6892|sonst hier da haben wir den regen der aber immer mehr richtung süden als sonne .
+dev/06February_2011_Sunday_tagesschau-6914|heute nacht verdichten sich in der nordosthälfte in der nordosthälfte richtung alpen noch schwere sturmböen .
+dev/06February_2011_Sunday_tagesschau-6917|morgen sieben grad im norden bis fünfzehn in der kölner bucht .
+dev/24January_2011_Monday_heute-6980|und morgen wird es dann auch kräftig sein aber es gibt auch noch mal ein bisschen kühler in der mitte und im süden aber in der mitte .
+dev/24January_2011_Monday_heute-6983|im regen bringen sie aber auch in norddeutschland da zeigt sich auch die sonne .
+dev/24January_2011_Monday_heute-6984|erst mittwoch dieser ja wie die sonne im westen gibt es schnee nur in den westen in den nächsten stunden .
+dev/17January_2011_Monday_tagesschau-7001|im süden und südosten deutschlands bleibt es noch trocken .
+dev/17January_2011_Monday_tagesschau-7003|sonst halten sich meist dichte wolken an den küsten langsam zahlreicher und verdichten wir in den küsten fällt auch kräftiger regen .
+dev/20September_2010_Monday_tagesschau-7029|besonders in der nähe von flüssen und seen bildet sich nebel .
+dev/29November_2009_Sunday_tagesschau-7043|morgen kommen dann von den regenwolken auf die ziehen bis in den alpen in den alpen .
+dev/03March_2011_Thursday_tagesschau-7064|dort morgen milde zwölf grad im norden und zweiundzwanzig grad in nordfriesland .
+dev/19January_2011_Wednesday_tagesschau-7068|und nun die wettervorhersage für morgen donnerstag den zwanzigsten januar .
+dev/25August_2009_Tuesday_tagesschau-7090|heute nacht wird es sehr windig zum teil stürmisch örtlich sind stürmische böen möglich .
+dev/25August_2009_Tuesday_tagesschau-7091|morgen schwacher bis mäßiger wind aus südwest bis west .
+dev/25August_2009_Tuesday_tagesschau-7093|morgen im osten und im vogtland bis zu achtundzwanzig an der oder nur kühle acht grad .
+dev/25August_2009_Tuesday_tagesschau-7094|in der nordhälfte und am tag ist es in der nordosthälfte zeitweise sonnig teils auch mal wolkig .
+dev/09July_2009_Thursday_tagesschau-7110|und nun die wettervorhersage für morgen freitag den zehnten juni .
+dev/09July_2009_Thursday_tagesschau-7122|am samstag ist es im südwesten meist trocken sonst sonnig an der nordsee einzelne schauer an der nordsee auch gewitter .
+dev/30March_2011_Wednesday_tagesschau-7127|am wochenende gewinnt das hoch über spanien das es auch bei sonnenschein und auch bei temperaturen .
+dev/30March_2011_Wednesday_tagesschau-7130|im osten dagegen viel sonne bei nur vereinzelt schauer und gewitter können die in der nacht auch in der osthälfte gebietsweise zeigen kann .
+dev/31October_2009_Saturday_tagesschau-7147|heute nacht kann es bodenfrost geben am niederrhein und am niederrhein ein bis zu acht grad sind es ein grad .
+dev/02June_2010_Wednesday_tagesschau-7160|heute nacht sechs bis dreizehn grad am tag temperaturen von achtzehn grad an den alpen bis zu fünfundzwanzig grad .
+dev/01May_2010_Saturday_tagesschau-7197|am mittwoch im süden hier und da noch etwas regen sonst ist es im übrigen land freundlich .
+dev/04July_2010_Sunday_tagesschau-7198|und nun die wettervorhersage für morgen montag den fünften juli .
+dev/04July_2010_Sunday_tagesschau-7199|das tief über mitteleuropa macht sich morgen im nordwesten und südosten deutschlands bemerkbar .
+dev/10November_2009_Tuesday_tagesschau-7250|am donnerstag zieht sich der nebel nach süden hin nach deutschland die wolken dichter es fallen noch eine ganze .
+dev/24January_2013_Thursday_heute-7254|es ist ja auch sonnig aber in ganz deutschland .
+dev/24January_2013_Thursday_heute-7265|sonst ist es dann auch mild bis minus zwei grad an den küsten und minus zwei grad am rhein .
+dev/26April_2010_Monday_tagesschau-7271|die temperaturen größtenteils in den nächsten tagen weiter sinkt auf .
+dev/26April_2010_Monday_tagesschau-7273|am tag vor allem im norden und osten mitunter kräftige schneefälle im süden auch mal kräftiger regen .
+dev/20March_2010_Saturday_heute-7288|und morgen kommt dann ein starker bis stürmischer südwestwind .
+dev/20March_2010_Saturday_heute-7296|in den nächsten tagen wird es kälter in den nächsten tagen und im westen wird es doch leicht noch kräftig sein .
+dev/20March_2010_Saturday_heute-7297|im bergland immer wieder ein paar regentropfen auf aber es gibt noch schnee und regen die sich immer mehr in den mittelgebirgen .
+dev/27June_2010_Sunday_tagesschau-7386|am dienstag erreichen uns dann von westen ein atlantischer tiefausläufer mit zum teil kräftige schauer und gewitter .
+dev/04January_2010_Monday_heute-7399|da liegen auch die temperaturen im nicht mehr so heiß im allgäu bis sechsundzwanzig grad am rhein .
+dev/04January_2010_Monday_heute-7401|im osten sieht es noch ein bisschen milder so lange wird es heute nacht auch noch am längsten trocken .
+dev/29July_2010_Thursday_tagesschau-7411|das hoch über dem atlantik gewinnt morgen an bedeutung für unser wetter mit viel sonne und steigende temperaturen .
+dev/15February_2011_Tuesday_tagesschau-7468|und nun die wettervorhersage für morgen mittwoch den sechzehnten februar .
+dev/10December_2009_Thursday_tagesschau-7482|und nun die wettervorhersage für morgen freitag den ersten dezember .
+dev/28May_2010_Friday_tagesschau-7496|sonst sorgt ein hoch über dem osten deutschlands morgen für recht freundliches wetter .
+dev/13July_2009_Monday_tagesschau-7513|sonst mal sonne mal wolken mit schauern und gewittern die im süden örtlich auch heftig sein können .
+dev/16July_2011_Saturday_tagesschau-7524|in der nacht kommt von westen regen auf der im osten und südosten zum teil klar .
+dev/09February_2011_Wednesday_heute-7538|heute nacht breiten sich die wolken morgen am nachmittag im nordwesten und an den küsten von südwesten her langsam wieder milder .
+dev/23September_2009_Wednesday_tagesschau-7582|am wochenende lenkt das hoch dann von südwesten heran .
+dev/23September_2009_Wednesday_tagesschau-7583|in der mitte und im norden gibt es heute nacht hier und da schauer die hier und da haben wir auch in der mitte und im norden gibt es heute
+dev/23September_2009_Wednesday_tagesschau-7593|am sonntag sorgen dann im laufe des tages für einzelne schauer .
+dev/09April_2010_Friday_tagesschau-7623|und nun die wettervorhersage für morgen samstag den vierten april .
+dev/09April_2010_Friday_tagesschau-7632|in der nacht null bis fünf am niederrhein bis sieben grad .
+dev/03October_2012_Wednesday_tagesschau-7651|und nun die wettervorhersage für morgen donnerstag den vierten oktober .
+dev/03October_2012_Wednesday_tagesschau-7655|im südosten bleibt es meist trocken .
+dev/03October_2012_Wednesday_tagesschau-7656|morgen überwiegen die wolken vereinzelt ein paar tropfen aber auch dort sind auch mal dichtere wolken unterwegs .
+dev/03October_2012_Wednesday_tagesschau-7657|im übrigen land gebietsweise kräftiger regen im nordwesten .
+dev/29June_2010_Tuesday_tagesschau-7704|der wind weht schwach bis mäßig im norden auch frisch sonst schwach bis mäßig aus südlichen richtungen .
+dev/29June_2010_Tuesday_tagesschau-7705|in der nacht temperaturen zwischen elf und achtzehn grad .
+dev/15October_2009_Thursday_tagesschau-7719|am tag acht grad im osten und bis zu zwölf grad im breisgau .
+dev/06January_2010_Wednesday_tagesschau-7726|über großbritannien erreicht uns ein tief das vor allem die mitte und im osten deutschlands einzelne schneeflocken fallen nur wenige schneeflocken sind .
+dev/11February_2011_Friday_tagesschau-7755|am montag und montag muss in der nordosthälfte mit kalt gerechnet werden .
+dev/25January_2013_Friday_tagesschau-7813|im laufe des mittwoch zieht dann von nordwesten heran und am sonntag für schnee oder schneeregen .
+dev/25January_2013_Friday_tagesschau-7815|morgen teils dichte wolken teils sonne im osten bleibt es noch bei sonnenschein .
+dev/23January_2011_Sunday_tagesschau-7834|auch am dienstag mehr wolken als sonne gebietsweise fällt regen oder etwas schnee aber auch regen .
+dev/05February_2011_Saturday_tagesschau-7855|heute nacht im norden teilweise schwere sturmböen auf den bergen orkanböen über der see und über dem atlantik .
+dev/26May_2010_Wednesday_heute-7867|morgen regnet es im nordosten einzelne kräftig im nordosten auch in der osthälfte einzelne schauer .
+dev/20July_2010_Tuesday_tagesschau-7877|die hochs verlagert sich morgen weiter richtung osten in deutschland .
+dev/20July_2010_Tuesday_tagesschau-7883|heute nacht zwanzig grad in der kölner bucht und elf grad in der mitte .
+dev/13May_2010_Thursday_tagesschau-7916|und nun die wettervorhersage für morgen freitag den vierzehnten mai .
+dev/13May_2010_Thursday_tagesschau-7926|ansonsten scheint häufig die sonne .
+dev/04February_2010_Thursday_heute-7966|es wird wieder sehr eisig kalt minus ein grad und minus vier grad im westen .
+dev/04February_2010_Thursday_heute-7970|der wind lässt im norden und in den nächsten tagen nach und im süden hin wird es richtig frisch mit sehr windig .
+dev/02December_2011_Friday_tagesschau-8009|am tag regnet es im süden gebietsweise in höheren lagen schneit es auch für längere zeit .
+dev/02December_2011_Friday_tagesschau-8010|im übrigen land gebietsweise klar an den küsten später auch ein paar schauer .
+dev/21July_2009_Tuesday_tagesschau-8061|es bestehen entsprechende warnungen des deutschen wetterdienstes .
+dev/21July_2009_Tuesday_tagesschau-8062|vor allem im norden fällt noch zum teil kräftiger regen oder gewitter .
+dev/16January_2010_Saturday_tagesschau-8073|im westen und südwesten fällt heute nacht gebietsweise schnee in der südosthälfte auch regen möglich .
+dev/29November_2011_Tuesday_heute-8095|schönen abend noch und machen sie es gut .
+dev/07April_2011_Thursday_tagesschau-8102|im westen kommt ein sturmtief aktiv das richtung südost sonst schwach bis stürmisch an der küste und im osten schwere sturmböen .
+dev/29March_2011_Tuesday_tagesschau-8117|im osten da haben wir höchsttemperaturen so von achtzehn bis achtzehn grad im breisgau .
+dev/27May_2011_Friday_tagesschau-8122|das hoch über dem atlantik gewinnt morgen an bedeutung für unser wetter verbreitet freundlich .
+dev/27May_2011_Friday_tagesschau-8133|am dienstag zieht von westen regen heran örtlich gibt es schauer und gewitter und es auch schwere sturmböen .
+dev/11January_2011_Tuesday_heute-8176|aber nachmittags da wird es von westen ein kräftiger regen auf den nordwesten ziehen einige schauer heran .
+dev/22July_2010_Thursday_tagesschau-8194|und nun die wettervorhersage für morgen freitag den dreiundzwanzigsten juli .
+dev/22July_2010_Thursday_tagesschau-8195|wolken des tiefs über südskandinavien ziehen morgen im süden deutschlands über deutschland .
+dev/09June_2010_Wednesday_heute-8266|ja der freitag beginnt schon deutlich wärmer am samstag im westen die wärme auch und auch noch kühler .
+dev/12December_2011_Monday_tagesschau-8281|morgen reichen die temperaturen von drei grad in niederbayern bis nach bayern sind es dabei stellenweise möglich .
+dev/12December_2011_Monday_tagesschau-8282|am mittwoch sehr windig mit zum teil sturmböen vereinzelt stürmisch mit starkregen sturmböen .
+dev/25January_2010_Monday_tagesschau-8298|und nun die wettervorhersage für morgen dienstag den sechsundzwanzigsten januar .
+dev/25January_2010_Monday_tagesschau-8305|der wind weht im norden meist schwach besonders in der südhälfte auch stark aus unterschiedlichen richtungen .
+dev/29March_2010_Monday_tagesschau-8384|und nun die wettervorhersage für morgen dienstag den dreißigsten samstag den dreißigsten samstag .
+dev/03September_2010_Friday_tagesschau-8423|kühlere luft strömt zu uns ein .
+dev/03September_2010_Friday_tagesschau-8424|das sind die temperaturen am wochenende noch richtig freundlich wie auch ein wenig .
+dev/03September_2010_Friday_tagesschau-8432|am tag sechzehn grad im nordosten und dreiundzwanzig grad im breisgau .
+dev/02December_2010_Thursday_heute-8444|guten abend liebe zuschauer .
+dev/02December_2010_Thursday_heute-8445|da heute nacht wieder schnee und wir haben so dass wir hier die landschaft also sie sehen sein als in deutschland .
+dev/17May_2010_Monday_tagesschau-8473|im norden und südwesten bleibt es auch trocken und südwesten bleibt es trocken .
+dev/17May_2010_Monday_tagesschau-8477|die aussichten auch am mittwoch weiterhin viele wolken hier und da regnet es etwas im westen kommt auch die sonne hervor .
+dev/13August_2009_Thursday_tagesschau-8487|der wind weht schwach bis mäßig aus west bis nordwest .
+dev/20October_2010_Wednesday_heute-8493|hallo und guten abend .
+dev/20October_2010_Wednesday_heute-8494|das war es vom mittelmeer schon der mittelgebirge noch bis zum erzgebirge und in den alpen noch .
+dev/20October_2010_Wednesday_heute-8501|im süden allerdings die mitte und im süden beruhigt sich das wetter nicht mehr sonne .
+dev/28July_2011_Thursday_tagesschau-8521|im westen und süden machen sich allerdings tiefausläufer bemerkbar die in der zweiten nachthälfte für schauer und gewitter bringen können .
+dev/29September_2009_Tuesday_tagesschau-8538|im süden schwacher im norden mäßiger bis frischer und stark böiger wind aus nord bis südost .
+dev/09May_2011_Monday_tagesschau-8583|am tag bis dreiundzwanzig grad an der ostsee und bis dreiundzwanzig grad am oberrhein .
+dev/09May_2011_Monday_tagesschau-8585|am donnerstag auch wieder sonnig teilweise kräftige gewitter .
+dev/09May_2011_Monday_tagesschau-8586|am freitag beruhigt sich das wetter und es wird deutlich kühler .
+dev/30July_2011_Saturday_tagesschau-8591|weiter südlich gibt es eine luftmassengrenze .
+dev/13November_2009_Friday_tagesschau-8610|heute nacht dreizehn bis drei grad am alpenrand unter klarem himmel bis null grad .
+dev/29April_2010_Thursday_heute-8622|und ab morgen nachmittag gibt es wieder ein paar regenschauer die aber auch gewitter bringen .
+dev/29April_2010_Thursday_heute-8623|morgen erwarten uns dann höchsttemperaturen zwischen acht und sechzehn grad .
+dev/29April_2010_Thursday_heute-8625|aber im osten da haben wir noch die wärme auch im osten und süden im süden und in bayern weiterhin warm .
+dev/11April_2010_Sunday_tagesschau-8639|dann frischt auch der wind stark böig auf sonst bläst er stark bis stürmisch auf den bergen einzelne sturmböen .
+dev/11December_2010_Saturday_tagesschau-8657|und hier die wetteraussichten für morgen sonntag den zwölften dezember .
+dev/11December_2010_Saturday_tagesschau-8659|morgen scheint verbreitet die sonne bevor sich dann von westen wieder regenwolken ausbreiten .
+dev/24January_2010_Sunday_tagesschau-8710|im süden schwacher richtung norden auch mäßiger wind aus nordost bis ost .
+dev/15July_2011_Friday_tagesschau-8726|dort morgen neunzehn in der eifel bis siebenundzwanzig grad .
+dev/06October_2012_Saturday_tagesschau-8729|und nun die wettervorhersage für morgen sonntag den siebenten oktober .
+dev/06October_2012_Saturday_tagesschau-8730|morgen beeinflusst das tief über der nordsee das wetter im süden deutschlands .
+dev/06October_2012_Saturday_tagesschau-8744|am mittwoch teils sonne teils wolken trocken und meist trocken .
+dev/23March_2011_Wednesday_tagesschau-8751|im norden und osten werden die wolken weiterhin dichter es gibt nur noch einzelne schauer aber nur vereinzelt ein paar kurze gewitter .
+dev/27January_2013_Sunday_tagesschau-8836|heute nacht plus drei grad im osten und im südosten verbreitet um den gefrierpunkt .
