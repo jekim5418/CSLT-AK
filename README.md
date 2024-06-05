@@ -64,10 +64,11 @@ python -m signjoey test configs/cslt-ak-ensemble.yaml
 
 If you want to inference your own model, modify 'model_dir' in 'configs/cslt-ak-single.yaml' or 'configs/cslt-ak-ensemble.yaml'.
 
---
+
 ## Citation
 If you want to cite the following paper:
-'''
+
+```
 @article{KIM2023115,
 	title = {CSLT-AK: Convolutional-embedded transformer with an action tokenizer and keypoint emphasizer for sign language translation},
 	journal = {Pattern Recognition Letters},
@@ -79,4 +80,4 @@ If you want to cite the following paper:
 	url = {<https://www.sciencedirect.com/science/article/pii/S0167865523002283>},
 	author = {Jungeun Kim and Ha Young Kim},
 }
-'''
+```
